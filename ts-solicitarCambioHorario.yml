@@ -1,0 +1,12 @@
+server:
+  port: 8065
+
+# OpenAPI 
+springdoc:
+  packages-to-scan: com.righttek.gotalent.solicitarCambioHorario.controller
+  
+# SERVICIOS A CONSUMIR
+uri:
+  empleado: "http://localhost:8070"
+  solicitud: "http://localhost:8054"
+  valoresConfigurables: "http://localhost:8043"
