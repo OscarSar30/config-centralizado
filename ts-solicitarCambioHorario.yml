@@ -7,6 +7,5 @@ springdoc:
   
 # SERVICIOS A CONSUMIR
 uri:
-  empleado: "http://localhost:8070"
+  plantillaNotificacion: "http://localhost:8075"
   solicitud: "http://localhost:8054"
-  valoresConfigurables: "http://localhost:8043"
