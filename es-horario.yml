@@ -1,18 +1,6 @@
 server:
-  port: 8099
+  port: 8074
 
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5433/postgres
-    username: postgres
-    password: root
-    driver-class-name: org.postgresql.Driver
-  
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-    properties:
-      jdbc:
-        lob:
-         non_contextual_creational: true
+# SERVICIOS A CONSUMIR
+uri:
+  nomina-externa: "http://localhost:8082"
