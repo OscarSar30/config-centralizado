@@ -3,6 +3,7 @@ server:
   
 # SERVICIOS A CONSUMIR
 uri:
+  empleado: "http://localhost:8072"
   plantillaNotificacion: "http://localhost:8075"
   horario: "http://localhost:8074"
   horarioEmpleado: "http://localhost:8093"
