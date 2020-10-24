@@ -1,0 +1,8 @@
+server:
+  port: 8113
+  
+# SERVICIOS A CONSUMIR
+uri:
+  plantillaNotificacion: "http://localhost:8075"
+  horario: "http://localhost:8074"
+  horarioEmpleado: "http://localhost:8093"
