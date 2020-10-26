@@ -6,3 +6,4 @@ uri:
   empleado: "http://localhost:8072"
   plantillaNotificacion: "http://localhost:8075"
   solicitud: "http://localhost:8054"
+  us-enviarcorreo: "http://localhost:8889"
