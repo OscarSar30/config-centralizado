@@ -5,3 +5,5 @@ server:
 uri:
   plantillaNotificacion: "http://localhost:8075"
   solicitud: "http://localhost:8054"
+  Parametros: "http://localhost:8043"
+  cargaArchivo: "http://localhost:8032"
