@@ -1,0 +1,9 @@
+server:
+  port: 8204
+
+uri:
+  es-empleado: http://localhost:8072
+  es-plantillanotificacion: http://localhost:8075
+  es-solicitud: http://localhost:8054
+  us-nominaexterna: http://localhost:8082
+  us-enviarcorreo: http://localhost:8889
