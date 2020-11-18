@@ -2,7 +2,7 @@ server:
   port: 8090
   
 springdoc:
-  packages-to-scan: com.righttek.gotalent.solicitar_anticipo.controller
+  packages-to-scan: com.righttek.ts.solicitaranticipo.controller
   
 # SERVICIOS A CONSUMIR
 uri:
