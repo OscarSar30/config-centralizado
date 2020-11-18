@@ -6,5 +6,5 @@ uri:
   empleado: "http://localhost:8072"
   plantillaNotificacion: "http://localhost:8075"
   permiso: "http://localhost:8092"
-  solicitud: "http://localhost:8054"
+  solicitudPermiso: "http://localhost:8123"
   us-enviarcorreo: "http://localhost:8889"
