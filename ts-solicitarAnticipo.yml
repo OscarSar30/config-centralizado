@@ -1,6 +1,9 @@
 server:
   port: 8090
   
+springdoc:
+  packages-to-scan: com.righttek.gotalent.solicitar_anticipo.controller
+  
 # SERVICIOS A CONSUMIR
 uri:
   empleado: "http://localhost:8072"
