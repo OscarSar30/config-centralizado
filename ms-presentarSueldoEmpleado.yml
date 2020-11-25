@@ -1,0 +1,7 @@
+server:
+  port: 8111
+  
+# SERVICIOS A CONSUMIR
+uri:
+  empleado: "http://localhost:8072"
+  nominaExterna: "http://localhost:8082"
