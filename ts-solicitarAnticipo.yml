@@ -8,4 +8,5 @@ springdoc:
 uri:
   empleado: "http://localhost:8072"
   solicitudAnticipo: "http://localhost:8057"
+  solicitudLegado: "http://localhost:8085"
   valoresConfigurables: "http://localhost:8043"
