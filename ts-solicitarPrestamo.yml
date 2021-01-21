@@ -8,6 +8,6 @@ uri:
   nominaExterna: "http://localhost:8082"
   rol: "http://localhost:8063"
   plantillaNotificacion: "http://localhost:8075"
-  permiso: "http://localhost:8092"
-  solicitudPermiso: "http://localhost:8123"
+  solicitudPrestamo: "http://localhost:8123"
+  solicitudLegado: "http://localhost:8085"
   enviarCorreo: "http://localhost:8889"
