@@ -4,6 +4,7 @@ server:
 # SERVICIOS A CONSUMIR
 uri:
   empleado: "http://localhost:8072"
+  usuario: "http://localhost:8076"
   valoresConfigurables: "http://localhost:8043"
   nominaExterna: "http://localhost:8082"
   rol: "http://localhost:8063"
