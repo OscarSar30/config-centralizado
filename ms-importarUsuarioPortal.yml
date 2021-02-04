@@ -1,0 +1,8 @@
+server:
+  port: 8777
+  
+# SERVICIOS A CONSUMIR
+uri:
+  nominaExterna: "http://localhost:8082"
+  rol: "http://localhost:8063"
+  usuario: "http://localhost:8076"
