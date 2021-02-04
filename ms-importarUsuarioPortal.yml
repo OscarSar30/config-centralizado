@@ -5,4 +5,5 @@ server:
 uri:
   nominaExterna: "http://localhost:8082"
   rol: "http://localhost:8063"
+  empleado: "http://localhost:8072"
   usuario: "http://localhost:8076"
