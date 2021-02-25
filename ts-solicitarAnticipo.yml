@@ -1,9 +1,6 @@
 server:
   port: 8090
   
-springdoc:
-  packages-to-scan: com.righttek.ts.solicitaranticipo.controller
-  
 # SERVICIOS A CONSUMIR
 uri:
   empleado: "http://localhost:8072"
