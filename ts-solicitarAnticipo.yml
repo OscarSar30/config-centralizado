@@ -10,3 +10,4 @@ uri:
   solicitudAnticipo: "http://localhost:8057"
   solicitudLegado: "http://localhost:8085"
   valoresConfigurables: "http://localhost:8043"
+  enviarCorreo: "http://localhost:8889"
