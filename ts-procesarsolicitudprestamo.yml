@@ -3,8 +3,8 @@ server:
   
 # SERVICIOS A CONSUMIR
 uri:
-  empleado: "http://localhost:8072"
-  plantillaNotificacion: "http://localhost:8075"
-  solicitudPrestamo: "http://localhost:8123"
-  solicitudLegado: "http://localhost:8085"
-  enviarCorreo: "http://localhost:8889"
+  es-empleado: "http://localhost:8072"
+  es-plantillaNotificacion: "http://localhost:8075"
+  es-solicitudPrestamo: "http://localhost:8123"
+  us-solicitudLegado: "http://localhost:8085"
+  us-enviarCorreo: "http://localhost:8889"
