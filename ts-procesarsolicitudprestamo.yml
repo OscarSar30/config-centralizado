@@ -4,7 +4,7 @@ server:
 # SERVICIOS A CONSUMIR
 uri:
   es-empleado: "http://localhost:8072"
-  es-plantillaNotificacion: "http://localhost:8075"
-  es-solicitudPrestamo: "http://localhost:8123"
-  us-solicitudLegado: "http://localhost:8085"
-  us-enviarCorreo: "http://localhost:8889"
+  es-plantillanotificaciones: "http://localhost:8075"
+  es-solicitudprestamo: "http://localhost:8123"
+  us-solicitudlegado: "http://localhost:8085"
+  us-enviarcorreo: "http://localhost:8889"
