@@ -1,0 +1,9 @@
+server:
+  port: 8900
+  
+# SERVICIOS A CONSUMIR
+uri:
+  empleado: "http://localhost:8072"
+  plantillaNotificacion: "http://localhost:8075"
+  solicitudMovilizacion: "http://localhost:8124"
+  enviarCorreo: "http://localhost:8889"
