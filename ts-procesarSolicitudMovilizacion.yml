@@ -1,0 +1,9 @@
+server:
+  port: 7999
+  
+# SERVICIOS A CONSUMIR
+uri:
+  plantillaNotificacion: "http://localhost:8075"
+  solicitudMovilizacion: "http://localhost:8124"
+  movilizacion: "http://localhost:8901"
+  enviarCorreo: "http://localhost:8889"
