@@ -3,9 +3,12 @@ server:
 
 # SERVICIOS A CONSUMIR
 uri:
-  empleado: "http://localhost:8072"
-  valoresConfigurables: "http://localhost:8043"
-  nominaExterna: "http://localhost:8082"
-  plantillaNotificacion: "http://localhost:8075"
-  permiso: "http://localhost:8092"
   solicitudPermiso: "http://localhost:7997"
+  permiso: "http://localhost:8092"
+  valoresConfigurables: "http://localhost:8043"
+  plantillaNotificacion: "http://localhost:8075"
+  archivo: "http://localhost:8032"
+  solicitudLegado: "http://localhost:8085"
+  enviarCorreo: "http://localhost:8889"
+  
+  
