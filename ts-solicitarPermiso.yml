@@ -7,6 +7,6 @@ uri:
   permiso: "http://localhost:8092"
   valoresConfigurables: "http://localhost:8043"
   plantillaNotificacion: "http://localhost:8075"
-  archivo: "http://localhost:8032"
+  cargaArchivo: "http://localhost:8032"
   solicitudLegado: "http://localhost:8085"
   enviarCorreo: "http://localhost:8889"
