@@ -8,4 +8,4 @@ uri:
   nominaExterna: "http://localhost:8082"
   plantillaNotificacion: "http://localhost:8075"
   permiso: "http://localhost:8092"
-  solicitudPermiso: "http://localhost:8123"
+  solicitudPermiso: "http://localhost:7997"
