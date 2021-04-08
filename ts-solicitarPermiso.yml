@@ -9,4 +9,4 @@ uri:
   plantillaNotificacion: "http://localhost:8075"
   cargaArchivo: "http://localhost:8032"
   solicitudLegado: "http://localhost:8085"
-  enviarCorreo: "http://localhost:8889"
+  us-enviarcorreo: "http://localhost:8889"
