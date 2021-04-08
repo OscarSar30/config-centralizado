@@ -10,5 +10,3 @@ uri:
   archivo: "http://localhost:8032"
   solicitudLegado: "http://localhost:8085"
   enviarCorreo: "http://localhost:8889"
-  
-  
