@@ -1,1 +1,11 @@
-
+server:
+  port: 7995
+  
+# SERVICIOS A CONSUMIR
+uri:
+  empleado: "http://localhost:8072"
+  permiso: "http://localhost:8092"
+  plantillaNotificacion: "http://localhost:8075"
+  solicitudPermiso: "http://localhost:7997"
+  enviarCorreo: "http://localhost:8889"
+  solicitudLegado: "http://localhost:8085"
