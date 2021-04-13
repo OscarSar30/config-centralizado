@@ -2,4 +2,4 @@ server:
   port: 8070
 
 uri:  
-  vacaciones-externas: "http://rgt-us-nominaexterna:8082"
+  vacaciones-externas: "http://localhost:8082"
