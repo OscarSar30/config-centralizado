@@ -1,0 +1,9 @@
+server:
+  port: 7992
+  
+# SERVICIOS A CONSUMIR
+uri:
+  es-equipoTrabajo: "http://localhost:8129"
+  es-solicitudesVacaciones: "http://localhost:7993"
+  es-vacaciones: "http://localhost:8070"
+  es-vacacionesProgramadas: "http://localhost:7994"
