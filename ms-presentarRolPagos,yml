@@ -1,0 +1,11 @@
+server:
+  port: 8119
+  
+# SERVICIOS A CONSUMIR
+uri:
+  archivo: "http://localhost:8032"
+  empleado: "http://localhost:8072"
+  empresa: "http://localhost:8099"
+  valoresConfigurables: "http://localhost:8043"
+  plantillaNotificacion: "http://localhost:8075"
+  us-nominaexterna: "http://localhost:8082"
