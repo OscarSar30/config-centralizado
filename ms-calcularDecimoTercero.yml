@@ -1,0 +1,7 @@
+server:
+  port: 8128
+  
+# SERVICIOS A CONSUMIR
+uri:
+  parametros: "http://api.dev.valoresconfigurables.rgt.com"
+  contrato: "http://api.dev.contrato.rgt.com"
