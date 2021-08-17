@@ -1,0 +1,9 @@
+server:
+  port: 8080
+# APIS COMPOSITION
+api:
+  es:
+    archive: http://35.229.23.41:8001
+  us:
+    importFile: http://35.229.23.41:8302
+
